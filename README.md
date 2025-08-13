@@ -38,6 +38,9 @@
 <img src="datas/1.3.1_1.png" width="80%">  
 
 #### 1.3.2. 広告看板
+広告看板には地名が書いてあることがある。
+<img src="datas/1.3.2_1.png" width="50%">
+<img src="datas/1.3.2_2.png" width="50%">  
 
 ### 1.4. 主要施設
 
