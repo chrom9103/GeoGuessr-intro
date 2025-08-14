@@ -81,7 +81,7 @@
 日本は10の電力会社により電力供給されている。  
 <img src="datas/1.6_1.png" width="80%">  
 各電力会社のプレートの特徴を示す。
-<img src="datas/1.6_2.png" width="80%">  
+<img src="datas/1.6_2.png" width="100%">  
 
 ## 2. 地誌
 
