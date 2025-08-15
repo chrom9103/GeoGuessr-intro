@@ -1,8 +1,8 @@
-# GeoGurssr-intro
+# GeoGuessr-intro
 
 ### 目次
 
-  - GeoGurssr-intro
+  - GeoGuessr-intro
       - [0. GeoGuesserとは](#0-geoguesserとは)
       - [1. 系統地理](#1-系統地理)
           - [1.1. 青看板](#11-青看板)
